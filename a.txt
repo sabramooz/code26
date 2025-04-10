@@ -1,2 +1,4 @@
 Another change Hello 4 fixed
 Change from remote
+
+new line
