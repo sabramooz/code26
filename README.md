@@ -3,6 +3,6 @@
 New github project
 
 checklist 
-[] first
-[*] second
+- [ ] first
+- [X] second
 
